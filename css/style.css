@@ -28,3 +28,25 @@ header {
 .my_about {
     border: 2px solid magenta;
 }
+
+.contact_me {
+    height: 500px;
+    border: 2px solid lightblue;
+}
+
+
+
+.my_info {
+    height: 150px;
+    border: 2px solid goldenrod;
+}
+
+
+.info_container {
+    width: 30%;
+}
+
+.my_copyright {
+    height: 75px;
+    border: 2px solid brown;
+}
