@@ -1,0 +1,30 @@
+header {
+    border: 2px solid red;
+    height: 70px;
+}
+
+
+.my_jumbo {
+    border: 2px solid blue;
+}
+
+
+.big_img {
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+}
+
+.my_portfolio {
+    border: 2px solid green;
+}
+
+.portfolio_img {
+    width: 300px;
+    height: 200px;
+    border: 2px solid green;
+}
+
+.my_about {
+    border: 2px solid magenta;
+}
